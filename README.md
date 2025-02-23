@@ -1,4 +1,10 @@
-## Hi there 👋
+## Wazzup 👋
+
+
+- 🔭 I’m currently working on Space X
+- 🌱 I’m currently learning how to avoid Red Flags
+- 👯 I’m looking to collaborate on Sky Diving
+- 💬 Ask me about astrology
 
 <!--
 **JustJhong609/JustJhong609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
