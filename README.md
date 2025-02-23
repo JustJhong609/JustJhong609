@@ -1,7 +1,7 @@
 ## Wazzup 👋
 
 
-- 🔭 I’m currently working on Space X
+- 🔭 I’m currently working on Space X and Saving the Planet
 - 🌱 I’m currently learning how to avoid Red Flags
 - 👯 I’m looking to collaborate on Sky Diving
 - 💬 Ask me about astrology
