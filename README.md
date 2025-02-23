@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Space X and Saving the Planet
 - 🌱 I’m currently learning how to avoid Red Flags
 - 👯 I’m looking to collaborate on Sky Diving
-- 💬 Ask me about astrology
+- 💬 Ask me about astronomy, astrology and cosmology
 
 <!--
 **JustJhong609/JustJhong609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
