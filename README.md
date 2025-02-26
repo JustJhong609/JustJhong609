@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justjhong609&label=Profile%20views&color=0e75b6&style=flat" alt="justjhong609" /> </p>
 
-<p align="left"> <a href="https://twitter.com/xxxxjhong" target="blank"><img src="https://img.shields.io/twitter/follow/xxxxjhong?logo=twitter&style=for-the-badge" alt="xxxxjhong" /></a> </p>
 
 - 🔭 I’m currently working on saving the planet **Atlas Rebirth**
 
