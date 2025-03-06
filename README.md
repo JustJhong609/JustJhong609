@@ -1,4 +1,4 @@
-//this is ma name
+
 
 <h1 align="center">Hi 👋, I'm Jhong</h1>
 <h3 align="center">A student specializing in 💁</h3>
