@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on saving the earth **Space X**
 
-- 🌱 I’m currently learning **Ionic + React +js.node**
+- 🌱 I’m currently learning **Ionic + React +js.node /next.js**
 
 - 💬 Ask me about **astronomy, astrology and cosmology**
 
