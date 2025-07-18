@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justjhong609&label=Profile%20views&color=0e75b6&style=flat" alt="justjhong609" /> </p>
 
-- 📏 I'm 5'11, physically and but not mentally fit ..
+- 📏 I'm 5'11, physically but not mentally fit ..
 - 🔭 I’m currently working on saving the earth **Space X**
 
 - 🌱 I’m currently learning **Kali Linux, Kali Tools and Wireshark**
