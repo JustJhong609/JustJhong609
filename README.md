@@ -32,6 +32,10 @@
 
 ## 🛠️ Tech Stack & Tools:
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 💻 Programming Languages:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -49,6 +53,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
 </p>
 
+</td>
+<td width="50%" valign="top">
+
 ### 🔒 Cybersecurity Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -62,10 +69,11 @@
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
 </p>
 
-### 🎨 Design Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</p>
+
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Statistics:
 
@@ -74,32 +82,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justjhong609&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justjhong609&theme=tokyonight" alt="justjhong609" />
-</div>
-
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=justjhong609&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-## 🐍 Contribution Graph:
-<div align="center">
-  <img src="https://github.com/justjhong609/justjhong609/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h3>💭 Developer Truth</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=It+works+on+my+machine+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8;There+are+only+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;99+little+bugs+in+the+code...;99+little+bugs+in+the+code...;Take+one+down%2C+patch+it+around...;117+little+bugs+in+the+code!" alt="Typing SVG" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<div align="center">
-  
-  **"Securing today's networks while dreaming of tomorrow's stars"** ⭐
-  
-  ![Visitor Count](https://profile-counter.glitch.me/justjhong609/count.svg)
-  
-</div>
+
 
 
