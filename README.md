@@ -20,20 +20,7 @@
 - 🌌 Space enthusiast fascinated by **astronomy, astrophysics, and cosmology**
 - 🎯 Goal: To combine cybersecurity expertise with space technology
 - 📫 Reach me at: **20211199@nbsc.edu.ph**
-- ⚡ Fun fact: I believe securing Earth's networks is just as important as exploring the cosmos!ter">I'm Jhong </h1>
-<h3 align="center">A student specializing in Cyber and Network Security and Software Development</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justjhong609&label=Profile%20views&color=0e75b6&style=flat" alt="justjhong609" /> </p>
-
-- 📏 Physically but not mentally fit ..
-- 🔭 I’m currently working on saving the earth **Space X**
-
-- 🌱 I’m currently learning **Kali Linux, Kali Tools and Wireshark**
-
-- 💬 Ask me about **astronomy, astrology and cosmology**
-
-- 📫 How to reach me **20211199@nbsc.edu.ph**
+- ⚡ Fun fact: I believe securing Earth's networks is just as important as exploring the cosmos!ter">
 
 ## 🔗 Connect with me:
 <p align="left">
