@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Jhong+👋;Cybersecurity+%26+Software+Developer;Vibe+Code+Cleanup+Specialist+(Prompt Enginner HAHA)✨;Always+Learning+New+Tech!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Jhong+👋;Cybersecurity+%26+Software+Developer;Vibe+Code+Cleanup+Specialist+✨+(Prompt+Engineer+HAHA);Always+Learning+New+Tech!&center=true&size=30">
 </h1>
 
 <h3 align="center">🛡️ Cybersecurity Student | 💻 Software Developer | ✨ Vibe Code Cleanup Specialist</h3>
