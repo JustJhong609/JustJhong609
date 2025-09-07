@@ -20,7 +20,7 @@
 - 🌌 Space enthusiast fascinated by **astronomy, astrophysics, and cosmology**
 - 🎯 Goal: To combine cybersecurity expertise with space technology
 - 📫 Reach me at: **20211199@nbsc.edu.ph**
-- ⚡ Fun fact: I believe securing Earth's networks is just as important as exploring the cosmos!ter">
+- ⚡ Fun fact: I believe securing Earth's networks is just as important as exploring the cosmos!
 
 ## 🔗 Connect with me:
 <p align="left">
