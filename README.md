@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=justjhong609&label=Profile%20views&color=0e75b6&style=flat" alt="justjhong609" /> 
 </p>
 
-## 🚀 About Me
+## 🚀 About Me. 
 
 - 🎓 **Cybersecurity & Network Security** student passionate about protecting digital landscapes
 - 💻 **Software Developer** building innovative solutions with modern technologies
