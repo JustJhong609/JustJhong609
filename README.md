@@ -22,7 +22,7 @@
 - 📫 Reach me at: **20211199@nbsc.edu.ph**
 - ⚡ Fun fact: I believe securing Earth's networks is just as important as exploring the cosmos!
 
-## 🔗 Connect with me:
+## 🔗 Connect with me: 
 <p align="left">
 <a href="https://linkedin.com/in/aljhon emata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aljhon emata" height="30" width="40" /></a>
 <a href="https://kaggle.com/justjhong609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="justjhong609" height="30" width="40" /></a>
