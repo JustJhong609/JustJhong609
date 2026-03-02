@@ -86,12 +86,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <h3>💭 Developer Truth</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=It+works+on+my+machine+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8;There+are+only+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;99+little+bugs+in+the+code...;99+little+bugs+in+the+code...;Take+one+down%2C+patch+it+around...;117+little+bugs+in+the+code!" alt="Typing SVG" />
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 
 
