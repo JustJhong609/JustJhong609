@@ -4,7 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=justjhong609&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
 
-
 ---
 
 ### About Me
