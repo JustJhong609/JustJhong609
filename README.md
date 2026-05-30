@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Jhong+👋&center=true&size=28&color=70a5fd&width=300&height=60">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+I'm+Jhong+👋&center=true&size=28&color=70a5fd&width=300&height=60">
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=justjhong609&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
