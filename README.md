@@ -12,7 +12,7 @@
 - 🛡️ **Cybersecurity Student** focused on network security & penetration testing
 - 🌱 Currently learning **Kali Linux, Pen Testing & Network Analysis**
 - 🌌 Space enthusiast — astronomy, astrophysics, and cosmology
-- 📫 **20211199@nbsc.edu.ph**. 
+- 📫 **20211199@nbsc.edu.ph**
 
 ---
  
