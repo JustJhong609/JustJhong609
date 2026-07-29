@@ -19,7 +19,7 @@
   <a href="https://fb.com/justjhongexd" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
   <a href="https://kaggle.com/justjhong609" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
   <a href="https://discord.com/users/538634474460807168" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
-</p>
+</p>. 
 
 ---
 
