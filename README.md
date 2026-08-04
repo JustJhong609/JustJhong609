@@ -9,7 +9,7 @@
 ### About Me.    
 
 - 🧑‍💻 **Full Stack Developer** building end-to-end web & mobile applications
-- 🌱 Currently learning **Kali Linux, Pen Testing & Network Analysis**
+- 🌱 Currently learning **Kali Linux, Pen Testing & Network Analysis** 
 
 ---
  
