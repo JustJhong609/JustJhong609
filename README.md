@@ -21,7 +21,7 @@
   <a href="https://discord.com/users/538634474460807168" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
 </p>. 
 
----
+---  
 
 ### Tech Stack
 
