@@ -13,7 +13,7 @@
 
 ---
  
-### Connect
+### Connect.  
 <p>
   <a href="https://linkedin.com/in/aljhon-emata" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://fb.com/justjhongexd" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
